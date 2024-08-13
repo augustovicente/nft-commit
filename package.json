@@ -23,7 +23,7 @@
     "@oclif/core": "^1",
     "@oclif/plugin-help": "^5",
     "@oclif/plugin-plugins": "^2.0.1",
-    "@types/fs-extra": "^9.0.13",
+    "@types/fs-extra": "^11.0.4",
     "@types/inquirer": "^8.2.0",
     "cli-ux": "^6.0.9",
     "fs-extra": "^10.0.1",
