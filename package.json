@@ -22,7 +22,7 @@
   "dependencies": {
     "@oclif/core": "^1",
     "@oclif/plugin-help": "^5",
-    "@oclif/plugin-plugins": "^2.0.1",
+    "@oclif/plugin-plugins": "^5.4.10",
     "@types/fs-extra": "^9.0.13",
     "@types/inquirer": "^8.2.0",
     "cli-ux": "^6.0.9",
